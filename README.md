@@ -1,0 +1,2 @@
+# Hospital-Management-System-
+The hospital management system has 3 portals (DOCTOR, ADMIN AND STAFF) with a single login page. After login, based on the portal, the dashboard will appear (including statistics and graphs will have added advantage). Staff can able to add and view patients. Admin can able to add, edit, delete and view the doctors, staffs and admins. Doctors can able to view patients and patient related graphs.
