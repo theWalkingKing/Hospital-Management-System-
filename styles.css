@@ -1,0 +1,199 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(47, 47, 51) !important;
+}
+
+h2 {
+  color: #fff;
+}
+
+p {
+  color: #fff;
+}
+
+.trash {
+  display: none !important;
+}
+
+#login-signup {
+  width: 500px;
+  margin: 200px auto;
+}
+#login-signup h2 {
+  margin-bottom: 20px !important;
+}
+
+#login-signup p {
+  margin-bottom: 50px;
+}
+
+#homepage-button1 {
+  display: inline-block;
+}
+
+#homepage-button2 {
+  display: inline-block;
+}
+
+#login {
+  background-color: rgb(33, 37, 41);
+  margin: 100px auto;
+  text-align: center;
+  width: 400px;
+  border-radius: 60px;
+  padding: 40px;
+  box-shadow: 20px 20px 10px rgb(71, 69, 69);
+}
+
+#login h1 {
+  color: white;
+  margin-bottom: 50px;
+  font-size: 48px !important;
+}
+
+#login input {
+  margin: 10px 0;
+}
+
+#login h3 {
+  color: #fff;
+  font-size: 15px;
+  text-align: left;
+  margin: 20px 0;
+}
+#login select {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 20px;
+  width: 320px;
+  border-radius: 5px;
+  height: 60px;
+  color: rgb(31, 28, 28);
+  background-color: white;
+}
+
+#login .log-in {
+  margin-top: 30px;
+  width: 200px !important;
+}
+
+#signup {
+  padding: 40px;
+  background-color: rgb(33, 37, 41);
+  margin: 30px auto;
+  text-align: center;
+  width: 800px;
+  border-radius: 40px;
+  box-shadow: 20px 20px 10px rgb(71, 69, 69);
+}
+
+#signup h1 {
+  color: white;
+  margin-bottom: 50px;
+  font-size: 48px !important;
+}
+
+#signup input {
+  margin: 10px 0;
+}
+
+#signup h3 {
+  color: #fff;
+  font-size: 15px;
+  text-align: left;
+  margin: 20px 0;
+}
+
+#signup #floatingnumber {
+  margin: 0 0 10px 0;
+  padding: 10px;
+  width: 720px;
+  height: 60px;
+  color: rgb(31, 28, 28);
+  background-color: white;
+  border-radius: 5px;
+}
+
+#signup select {
+  position: relative;
+  left: -100px;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 20px;
+  width: 320px;
+  height: 60px;
+  color: rgb(31, 28, 28);
+  background-color: white;
+  border-radius: 5px;
+}
+
+#signup .sign-up {
+  position: relative;
+  left: -20px;
+  top: -23px;
+  margin-top: 30px;
+  width: 200px !important;
+}
+
+.info-form {
+  margin-left: 300px !important;
+  margin-bottom: 50px;
+  width: 1000px;
+  color: #fff;
+}
+
+.heading {
+  color: #fff;
+  font-size: 60px;
+}
+
+.welcome {
+  color: rgb(218, 218, 218);
+}
+
+#title {
+  margin: 50px 100px 0;
+  background-color: rgb(200, 202, 94) !important;
+}
+
+.patientinfo {
+  margin: 0 100px !important;
+  padding: 10px 0;
+  background-color: rgb(206, 206, 195) !important;
+}
+
+.fas {
+  margin: 5px 15px;
+  color: black;
+}
+
+.far {
+  margin: 5px 15px;
+  color: black;
+}
+
+.fa-user-plus {
+  position: absolute;
+  top: 40px;
+  right: 100px;
+  color: white;
+}
+
+.logout {
+  position: absolute;
+  top: 60px;
+  left: 180px;
+  color: white;
+}
+
+.fa-home {
+  position: absolute;
+  top: 60px;
+  left: 90px;
+  font-size: 30px;
+  color: #fff;
+}
